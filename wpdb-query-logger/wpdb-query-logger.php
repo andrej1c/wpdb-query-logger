@@ -1,19 +1,12 @@
 <?php
 /**
  * Plugin Name: WPDB Query Logger
- * Description: Log INSERT, UPDATE, REPLACE queries into file structure. 
- * Version: 0.1
+ * Description: Log INSERT, UPDATE, REPLACE queries into a file structure of SQL files for easy reuse (when deploying etc.). 
+ * Version: 0.1.1
  * Author: Andrej Ciho
  * Author URI: http://andrejciho.com
  */
 
-
-Plugin Name: Pods CMS Framework
-Plugin URI: http://podsframework.org/
-Description: Pods is a CMS framework for creating, managing, and deploying customized content types.
-Version: 1.12.2
-Author: The Pods CMS Team
-Author URI: http://podsframework.org/about/
 
 class CS_WPDB_Logger
 {
