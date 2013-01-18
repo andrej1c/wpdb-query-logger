@@ -1,6 +1,6 @@
 wpdb-query-logger
 =================
 
-Logs INSERT, UPDATE, SELECT queries
+Logs INSERT, UPDATE, SELECT queries performed using the WPDB class in Wordpress
 
-Don't forget to add a define('LOG_QUERIES', true); to wp-config.php
+For the hook to fire add a define('LOG_QUERIES', true); to wp-config.php
