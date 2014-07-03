@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WPDB Query Logger
  * Description: Log INSERT, UPDATE, REPLACE queries into a file structure of SQL files for easy reuse (when deploying etc.). 
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Andrej Ciho
  * Author URI: http://andrejciho.com
  */

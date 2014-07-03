@@ -1,2 +1,5 @@
+[Version 0.1.2]
+Instead of defining our own setting in wp-config.php let's accept WP_DEBUG_LOG as the flag that turns query logging on or off
+
 [Version 0.1.1]
 Added method to block access to log sql files through the browser
